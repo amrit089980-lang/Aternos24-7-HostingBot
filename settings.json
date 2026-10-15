@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "Titanarmymc.aternos.me",
+    "port": 33480,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
